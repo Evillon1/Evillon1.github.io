@@ -5,7 +5,7 @@
  </head> 
  <body>
 
- <? include 'header.inc';?>
+ <? include 'test2.py';?>
 
  <div id="content">
   Файлы header.inc и footer.inc включены с помощью инструкции include.<br>
