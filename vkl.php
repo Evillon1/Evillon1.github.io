@@ -11,8 +11,6 @@
   Файлы header.inc и footer.inc включены с помощью инструкции include.<br>
   Абсолютно то же самое в данном случае получится и с инструкцией require.  
  </div>
- 
- <? include 'footer.inc'; ?>
-
+  
  </body>
 </html>
